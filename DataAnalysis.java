@@ -2,9 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Handles the analysis of each question asked in the assignment sheet.
- * The method for each question appears in the same order as the questions were
- * asked in the assignment sheet. 
+ * TEST TEST TEST TEST
  * @author andrew.mcmanus
  *
  */
